@@ -14,6 +14,8 @@ using Urna2017_DTO;
 
 //carai...
 
+//sei la
+
 namespace Urna2017_BLL
 {
     public class ValidarVoto_BLL
