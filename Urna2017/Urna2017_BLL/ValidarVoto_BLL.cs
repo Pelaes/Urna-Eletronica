@@ -10,6 +10,10 @@ using Urna2017_DTO;
 
 //luiz zica...
 
+//muleke piranha
+
+//carai...
+
 namespace Urna2017_BLL
 {
     public class ValidarVoto_BLL
