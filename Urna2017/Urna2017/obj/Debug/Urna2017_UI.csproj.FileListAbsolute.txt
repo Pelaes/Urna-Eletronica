@@ -14,3 +14,20 @@ C:\Users\Marcelo\documents\visual studio 2013\Projects\Urna2017\Urna2017\bin\Deb
 C:\Users\Marcelo\documents\visual studio 2013\Projects\Urna2017\Urna2017\bin\Debug\Urna2017_BLL.pdb
 C:\Users\Marcelo\documents\visual studio 2013\Projects\Urna2017\Urna2017\bin\Debug\Urna2017_DTO.pdb
 C:\Users\Marcelo\documents\visual studio 2013\Projects\Urna2017\Urna2017\bin\Debug\Urna2017_DAL.pdb
+C:\Users\Marcelo\Desktop\Projeto Urna\Urna2017\Urna2017\bin\Debug\Urna2017.exe.config
+C:\Users\Marcelo\Desktop\Projeto Urna\Urna2017\Urna2017\bin\Debug\Urna2017.exe
+C:\Users\Marcelo\Desktop\Projeto Urna\Urna2017\Urna2017\bin\Debug\Urna2017.pdb
+C:\Users\Marcelo\Desktop\Projeto Urna\Urna2017\Urna2017\bin\Debug\Urna2017_BLL.dll
+C:\Users\Marcelo\Desktop\Projeto Urna\Urna2017\Urna2017\bin\Debug\Urna2017_DTO.dll
+C:\Users\Marcelo\Desktop\Projeto Urna\Urna2017\Urna2017\bin\Debug\Urna2017_DAL.dll
+C:\Users\Marcelo\Desktop\Projeto Urna\Urna2017\Urna2017\bin\Debug\Urna2017_BLL.pdb
+C:\Users\Marcelo\Desktop\Projeto Urna\Urna2017\Urna2017\bin\Debug\Urna2017_DTO.pdb
+C:\Users\Marcelo\Desktop\Projeto Urna\Urna2017\Urna2017\bin\Debug\Urna2017_DAL.pdb
+C:\Users\Marcelo\Desktop\Projeto Urna\Urna2017\Urna2017\obj\Debug\Urna2017_UI.csprojResolveAssemblyReference.cache
+C:\Users\Marcelo\Desktop\Projeto Urna\Urna2017\Urna2017\obj\Debug\Urna2017.Eleicao.resources
+C:\Users\Marcelo\Desktop\Projeto Urna\Urna2017\Urna2017\obj\Debug\Urna2017.Login.resources
+C:\Users\Marcelo\Desktop\Projeto Urna\Urna2017\Urna2017\obj\Debug\Urna2017.Properties.Resources.resources
+C:\Users\Marcelo\Desktop\Projeto Urna\Urna2017\Urna2017\obj\Debug\Urna2017_UI.csproj.GenerateResource.Cache
+C:\Users\Marcelo\Desktop\Projeto Urna\Urna2017\Urna2017\obj\Debug\Urna2017_UI.csproj.CoreCompileInputs.cache
+C:\Users\Marcelo\Desktop\Projeto Urna\Urna2017\Urna2017\obj\Debug\Urna2017.exe
+C:\Users\Marcelo\Desktop\Projeto Urna\Urna2017\Urna2017\obj\Debug\Urna2017.pdb

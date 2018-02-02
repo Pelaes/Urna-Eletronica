@@ -8,6 +8,8 @@ using System.Drawing;
 using Urna2017_DAL;
 using Urna2017_DTO;
 
+//luiz zica...
+
 namespace Urna2017_BLL
 {
     public class ValidarVoto_BLL
