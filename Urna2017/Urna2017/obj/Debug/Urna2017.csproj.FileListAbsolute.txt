@@ -1,0 +1,9 @@
+c:\users\marcelo\documents\visual studio 2013\Projects\Urna2017\Urna2017\bin\Debug\Urna2017.exe.config
+c:\users\marcelo\documents\visual studio 2013\Projects\Urna2017\Urna2017\bin\Debug\Urna2017.exe
+c:\users\marcelo\documents\visual studio 2013\Projects\Urna2017\Urna2017\bin\Debug\Urna2017.pdb
+c:\users\marcelo\documents\visual studio 2013\Projects\Urna2017\Urna2017\obj\Debug\Urna2017.csprojResolveAssemblyReference.cache
+c:\users\marcelo\documents\visual studio 2013\Projects\Urna2017\Urna2017\obj\Debug\Urna2017.Form1.resources
+c:\users\marcelo\documents\visual studio 2013\Projects\Urna2017\Urna2017\obj\Debug\Urna2017.Properties.Resources.resources
+c:\users\marcelo\documents\visual studio 2013\Projects\Urna2017\Urna2017\obj\Debug\Urna2017.csproj.GenerateResource.Cache
+c:\users\marcelo\documents\visual studio 2013\Projects\Urna2017\Urna2017\obj\Debug\Urna2017.exe
+c:\users\marcelo\documents\visual studio 2013\Projects\Urna2017\Urna2017\obj\Debug\Urna2017.pdb

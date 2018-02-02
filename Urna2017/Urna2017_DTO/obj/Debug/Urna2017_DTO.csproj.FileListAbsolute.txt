@@ -1,0 +1,5 @@
+C:\Users\Marcelo\documents\visual studio 2013\Projects\Urna2017\Urna2017_DTO\bin\Debug\Urna2017_DTO.dll
+C:\Users\Marcelo\documents\visual studio 2013\Projects\Urna2017\Urna2017_DTO\bin\Debug\Urna2017_DTO.pdb
+C:\Users\Marcelo\documents\visual studio 2013\Projects\Urna2017\Urna2017_DTO\obj\Debug\Urna2017_DTO.csprojResolveAssemblyReference.cache
+C:\Users\Marcelo\documents\visual studio 2013\Projects\Urna2017\Urna2017_DTO\obj\Debug\Urna2017_DTO.dll
+C:\Users\Marcelo\documents\visual studio 2013\Projects\Urna2017\Urna2017_DTO\obj\Debug\Urna2017_DTO.pdb

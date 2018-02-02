@@ -1,0 +1,9 @@
+C:\Users\Marcelo\documents\visual studio 2013\Projects\Urna2017\Urna2017_BLL\bin\Debug\Urna2017_BLL.dll
+C:\Users\Marcelo\documents\visual studio 2013\Projects\Urna2017\Urna2017_BLL\bin\Debug\Urna2017_BLL.pdb
+C:\Users\Marcelo\documents\visual studio 2013\Projects\Urna2017\Urna2017_BLL\bin\Debug\Urna2017_DAL.dll
+C:\Users\Marcelo\documents\visual studio 2013\Projects\Urna2017\Urna2017_BLL\bin\Debug\Urna2017_DTO.dll
+C:\Users\Marcelo\documents\visual studio 2013\Projects\Urna2017\Urna2017_BLL\bin\Debug\Urna2017_DAL.pdb
+C:\Users\Marcelo\documents\visual studio 2013\Projects\Urna2017\Urna2017_BLL\bin\Debug\Urna2017_DTO.pdb
+C:\Users\Marcelo\documents\visual studio 2013\Projects\Urna2017\Urna2017_BLL\obj\Debug\Urna2017_BLL.csprojResolveAssemblyReference.cache
+C:\Users\Marcelo\documents\visual studio 2013\Projects\Urna2017\Urna2017_BLL\obj\Debug\Urna2017_BLL.dll
+C:\Users\Marcelo\documents\visual studio 2013\Projects\Urna2017\Urna2017_BLL\obj\Debug\Urna2017_BLL.pdb
