@@ -31,3 +31,20 @@ C:\Users\Marcelo\Desktop\Projeto Urna\Urna2017\Urna2017\obj\Debug\Urna2017_UI.cs
 C:\Users\Marcelo\Desktop\Projeto Urna\Urna2017\Urna2017\obj\Debug\Urna2017_UI.csproj.CoreCompileInputs.cache
 C:\Users\Marcelo\Desktop\Projeto Urna\Urna2017\Urna2017\obj\Debug\Urna2017.exe
 C:\Users\Marcelo\Desktop\Projeto Urna\Urna2017\Urna2017\obj\Debug\Urna2017.pdb
+C:\Users\Fernando\source\repos\Urna-Eletronica\Urna2017\Urna2017\bin\Debug\Urna2017.exe.config
+C:\Users\Fernando\source\repos\Urna-Eletronica\Urna2017\Urna2017\bin\Debug\Urna2017.exe
+C:\Users\Fernando\source\repos\Urna-Eletronica\Urna2017\Urna2017\bin\Debug\Urna2017.pdb
+C:\Users\Fernando\source\repos\Urna-Eletronica\Urna2017\Urna2017\bin\Debug\Urna2017_BLL.dll
+C:\Users\Fernando\source\repos\Urna-Eletronica\Urna2017\Urna2017\bin\Debug\Urna2017_DTO.dll
+C:\Users\Fernando\source\repos\Urna-Eletronica\Urna2017\Urna2017\bin\Debug\Urna2017_DAL.dll
+C:\Users\Fernando\source\repos\Urna-Eletronica\Urna2017\Urna2017\bin\Debug\Urna2017_BLL.pdb
+C:\Users\Fernando\source\repos\Urna-Eletronica\Urna2017\Urna2017\bin\Debug\Urna2017_DTO.pdb
+C:\Users\Fernando\source\repos\Urna-Eletronica\Urna2017\Urna2017\bin\Debug\Urna2017_DAL.pdb
+C:\Users\Fernando\source\repos\Urna-Eletronica\Urna2017\Urna2017\obj\Debug\Urna2017_UI.csprojResolveAssemblyReference.cache
+C:\Users\Fernando\source\repos\Urna-Eletronica\Urna2017\Urna2017\obj\Debug\Urna2017.Eleicao.resources
+C:\Users\Fernando\source\repos\Urna-Eletronica\Urna2017\Urna2017\obj\Debug\Urna2017.Login.resources
+C:\Users\Fernando\source\repos\Urna-Eletronica\Urna2017\Urna2017\obj\Debug\Urna2017.Properties.Resources.resources
+C:\Users\Fernando\source\repos\Urna-Eletronica\Urna2017\Urna2017\obj\Debug\Urna2017_UI.csproj.GenerateResource.Cache
+C:\Users\Fernando\source\repos\Urna-Eletronica\Urna2017\Urna2017\obj\Debug\Urna2017_UI.csproj.CoreCompileInputs.cache
+C:\Users\Fernando\source\repos\Urna-Eletronica\Urna2017\Urna2017\obj\Debug\Urna2017.exe
+C:\Users\Fernando\source\repos\Urna-Eletronica\Urna2017\Urna2017\obj\Debug\Urna2017.pdb

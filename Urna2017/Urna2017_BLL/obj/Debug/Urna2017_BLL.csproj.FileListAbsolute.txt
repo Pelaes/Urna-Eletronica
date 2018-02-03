@@ -17,3 +17,13 @@ C:\Users\Marcelo\Desktop\Projeto Urna\Urna2017\Urna2017_BLL\obj\Debug\Urna2017_B
 C:\Users\Marcelo\Desktop\Projeto Urna\Urna2017\Urna2017_BLL\obj\Debug\Urna2017_BLL.csproj.CoreCompileInputs.cache
 C:\Users\Marcelo\Desktop\Projeto Urna\Urna2017\Urna2017_BLL\obj\Debug\Urna2017_BLL.dll
 C:\Users\Marcelo\Desktop\Projeto Urna\Urna2017\Urna2017_BLL\obj\Debug\Urna2017_BLL.pdb
+C:\Users\Fernando\source\repos\Urna-Eletronica\Urna2017\Urna2017_BLL\bin\Debug\Urna2017_BLL.dll
+C:\Users\Fernando\source\repos\Urna-Eletronica\Urna2017\Urna2017_BLL\bin\Debug\Urna2017_BLL.pdb
+C:\Users\Fernando\source\repos\Urna-Eletronica\Urna2017\Urna2017_BLL\bin\Debug\Urna2017_DAL.dll
+C:\Users\Fernando\source\repos\Urna-Eletronica\Urna2017\Urna2017_BLL\bin\Debug\Urna2017_DTO.dll
+C:\Users\Fernando\source\repos\Urna-Eletronica\Urna2017\Urna2017_BLL\bin\Debug\Urna2017_DAL.pdb
+C:\Users\Fernando\source\repos\Urna-Eletronica\Urna2017\Urna2017_BLL\bin\Debug\Urna2017_DTO.pdb
+C:\Users\Fernando\source\repos\Urna-Eletronica\Urna2017\Urna2017_BLL\obj\Debug\Urna2017_BLL.csprojResolveAssemblyReference.cache
+C:\Users\Fernando\source\repos\Urna-Eletronica\Urna2017\Urna2017_BLL\obj\Debug\Urna2017_BLL.csproj.CoreCompileInputs.cache
+C:\Users\Fernando\source\repos\Urna-Eletronica\Urna2017\Urna2017_BLL\obj\Debug\Urna2017_BLL.dll
+C:\Users\Fernando\source\repos\Urna-Eletronica\Urna2017\Urna2017_BLL\obj\Debug\Urna2017_BLL.pdb

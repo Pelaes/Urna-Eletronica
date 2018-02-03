@@ -5,3 +5,11 @@ C:\Users\Marcelo\documents\visual studio 2013\Projects\Urna2017\Urna2017_DAL\bin
 C:\Users\Marcelo\documents\visual studio 2013\Projects\Urna2017\Urna2017_DAL\obj\Debug\Urna2017_DAL.csprojResolveAssemblyReference.cache
 C:\Users\Marcelo\documents\visual studio 2013\Projects\Urna2017\Urna2017_DAL\obj\Debug\Urna2017_DAL.dll
 C:\Users\Marcelo\documents\visual studio 2013\Projects\Urna2017\Urna2017_DAL\obj\Debug\Urna2017_DAL.pdb
+C:\Users\Fernando\source\repos\Urna-Eletronica\Urna2017\Urna2017_DAL\bin\Debug\Urna2017_DAL.dll
+C:\Users\Fernando\source\repos\Urna-Eletronica\Urna2017\Urna2017_DAL\bin\Debug\Urna2017_DAL.pdb
+C:\Users\Fernando\source\repos\Urna-Eletronica\Urna2017\Urna2017_DAL\bin\Debug\Urna2017_DTO.dll
+C:\Users\Fernando\source\repos\Urna-Eletronica\Urna2017\Urna2017_DAL\bin\Debug\Urna2017_DTO.pdb
+C:\Users\Fernando\source\repos\Urna-Eletronica\Urna2017\Urna2017_DAL\obj\Debug\Urna2017_DAL.csprojResolveAssemblyReference.cache
+C:\Users\Fernando\source\repos\Urna-Eletronica\Urna2017\Urna2017_DAL\obj\Debug\Urna2017_DAL.csproj.CoreCompileInputs.cache
+C:\Users\Fernando\source\repos\Urna-Eletronica\Urna2017\Urna2017_DAL\obj\Debug\Urna2017_DAL.dll
+C:\Users\Fernando\source\repos\Urna-Eletronica\Urna2017\Urna2017_DAL\obj\Debug\Urna2017_DAL.pdb
